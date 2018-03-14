@@ -1,24 +1,19 @@
 {
   "name": "vue-arttanzl",
-  "version": "0.0.1",
-  "description": "test",
+  "version": "1.0.0",
+  "description": "vue for arttanzl",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arttanzl/vue-arttanzl.git"
+    "url": "git+https://github.com/arttanzl/vue-arttanzl.git"
   },
-  "keywords": [],
   "author": "arttanzl",
-  "license": "MIT",
-  "peerDependencies": {
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arttanzl/vue-arttanzl/issues"
   },
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
-  "directories": {
-    "doc": "docs"
-  }
+  "homepage": "https://github.com/arttanzl/vue-arttanzl#readme"
 }
